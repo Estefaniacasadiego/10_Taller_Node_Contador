@@ -1,0 +1,63 @@
+header {
+    background-color: black;
+    height: 10vh;
+    text-align: center;
+}
+
+.titulo_t {
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    
+}
+.product-box {
+    background-color: white;
+    border-radius: 10px;
+    top: 40px;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 35px;
+   }
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 48px;
+    color: black;
+}
+
+button {
+    font-size: 22px;
+    padding: 10px 20px;
+    margin: 10px;
+    color: white;
+    border: 5px;
+    border-radius: 200px;
+    background-color: #000407;
+
+}
+
+section {
+    text-align: center;
+}
+
+main {
+    background-image: url("imagennumeros.jpg");
+    height: 78vh;
+}
+
+footer {
+    height: 10px;
+    background-color: black;
+}
+body{
+    background-color: black;
+}
